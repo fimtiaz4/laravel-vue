@@ -50,7 +50,6 @@
 </tr>
 </tbody>
 </table>
-<p dir="ltr"><br /><br /></p>
 <p><strong>Inertia.js Features: </strong><strong><br /><br /></strong></p>
 <p><span>Here are some key features of Inertia:</span></p>
 <ol>
