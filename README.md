@@ -63,6 +63,5 @@
 <li><span>Error handling is much more easier</span></li>
 <li><span>Creating a progress indicator is much more easier</span></li>
 </ol>
-<p dir="ltr"><br /><br /></p>
 <p><strong>Integration with Laravel: </strong><a href="https://github.com/fimtiaz4/laravel-vue/"><strong>https://github.com/fimtiaz4/laravel-vue/</strong></a></p>
 <p><strong>Client-Side Components: </strong><strong><br /></strong><span>While we are creating applications with Vue js and Laravel alongside using Inertia.js, we can achieve strong securities, more seo friendly routing. In order to achieve this we install inertia and create SiteController to use inertia then return page in SiteController object. Then we use this SiteController on routes/web.php and add route with name for easy access of that vue component.</span></p>
