@@ -1,9 +1,10 @@
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:15pt;font-family:Arial,sans-serif;color:#101828;background-color:#f9f9fa;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Comparison of SSR and CSR:</span></p>
-<p><br></p>
+
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">While we are scaffolding vue js with laravel we will use both SSR and CSR. It depends on SEO Optimization, Server&rsquo;s computing power and security concerns.</span></p>
+
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Server Side Rendering:&nbsp;</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">When data is prepared from sever and pushed to client side that is server side rendering.</span></p>
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Client Side Rendering:&nbsp;</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">When data is prepared from browser that is client side rendering.</span></p>
-<p><br></p>
+
 <div dir="ltr" style="margin-left:0pt;" align="center">
     <table style="border:none;border-collapse:collapse;">
         <tbody>
@@ -54,8 +55,6 @@
         </tbody>
     </table>
 </div>
-<p><br></p>
-<p><br></p>
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:15pt;font-family:Arial,sans-serif;color:#101828;background-color:#f9f9fa;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Inertia.js Features:&nbsp;</span><span style="font-size:15pt;font-family:Arial,sans-serif;color:#101828;background-color:#f9f9fa;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br><br></span></p>
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Here are some key features of Inertia:</span></p>
 <p><br></p>
@@ -85,13 +84,9 @@
         <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Creating a progress indicator is much more easier</span></p>
     </li>
 </ol>
-<p><br></p>
-<p><br></p>
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:15pt;font-family:Arial,sans-serif;color:#101828;background-color:#f9f9fa;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Integration with Laravel:&nbsp;</span><a href="https://github.com/fimtiaz4/laravel-vue/" style="text-decoration:none;"><span style="font-size:15pt;font-family:Arial,sans-serif;color:#1155cc;background-color:#f9f9fa;font-weight:700;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://github.com/fimtiaz4/laravel-vue/</span></a><span style="font-size:15pt;font-family:Arial,sans-serif;color:#101828;background-color:#f9f9fa;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p>
 <p><br></p>
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:15pt;font-family:Arial,sans-serif;color:#101828;background-color:#f9f9fa;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Client-Side Components:&nbsp;</span><span style="font-size:15pt;font-family:Arial,sans-serif;color:#101828;background-color:#f9f9fa;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">While we are creating applications with Vue js and Laravel alongside using Inertia.js, we can achieve strong securities, more seo friendly routing. In order to achieve this we install inertia and create SiteController to use inertia then return page in SiteController object. Then we use this SiteController on routes/web.php and add route with name for easy access of that vue component.</span></p>
-<p><br></p>
-<p><br></p>
 1. composer create-project laravel/laravel example-app
 2. cd example-app
 3. composer require inertiajs/inertia-laravel
